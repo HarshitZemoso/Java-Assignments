@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d42a3904-aba4-4838-9e08-6e3511925d5c" name="Default Changelist" comment="" />
+    <list default="true" id="d42a3904-aba4-4838-9e08-6e3511925d5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Harshit/Assignment1/SearchDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zemoso_Java_Assignments/com/Harshit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Assignment2/CheckAlphabets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Harshit/Assignment2/CheckAlphabets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +23,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="27QE7BZ8R3Bp4TqhDIXq0Zy0QzD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JavaAssignments-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shubham Sachdeva\Downloads\Zemoso_Java_Assignments\src\com\Harshit" />
+      <recent name="C:\Users\Shubham Sachdeva\Downloads\Zemoso_Java_Assignments\src\com\Harshit\Assignment5" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
@@ -53,21 +75,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="417" y="234" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1649244279024" />
-    <state width="1493" height="106" key="GridCell.Tab.0.bottom" timestamp="1649247345314">
+    <state x="188" y="308" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1649701522904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649247345314" />
-    <state width="1493" height="106" key="GridCell.Tab.0.center" timestamp="1649247345314">
+    <state x="188" y="308" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1649701522904" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1649608821992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649247345314" />
-    <state width="1493" height="106" key="GridCell.Tab.0.left" timestamp="1649247345314">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649608821992" />
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1649322284358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649247345314" />
-    <state width="1493" height="106" key="GridCell.Tab.0.right" timestamp="1649247345314">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649322284358" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1649322284357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649247345314" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649322284357" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1649322284351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649322284351" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1649322284358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649322284358" />
+    <state x="349" y="151" key="IDE.errors.dialog" timestamp="1649322397495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="151" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1649322397494" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1649700041226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1649700041226" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1649608678668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1649608678668" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1649697693472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1649697693472" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1649313839278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1649313839278" />
   </component>
 </project>
