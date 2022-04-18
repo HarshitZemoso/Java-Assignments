@@ -1,5 +1,6 @@
 package com.Harshit.Assignment2;
 
+
 import java.util.Scanner;
 
 public class CheckAlphabets {
