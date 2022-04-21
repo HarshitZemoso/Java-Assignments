@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42a3904-aba4-4838-9e08-6e3511925d5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zemoso_Java_Assignments/com/Harshit/Assignment6/VampireNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Assignment10/DriverClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Assignment10/SList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Assignment10/SListIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Assignment2/CheckAlphabets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Harshit/Assignment2/CheckAlphabets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Harshit/Assignment10/SListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Harshit/Assignment10/SListIterator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

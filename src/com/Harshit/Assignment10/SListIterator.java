@@ -22,21 +22,22 @@ public class SListIterator<T> {
         }
     }
 
-    public void deleteNode(T value){
+    public void deleteNode(int index){
         Node<T> tempNode = head;
         Node<T> previousNode = null;
-
-        if(head.value == value){
+        int count = 0;
+        if( count == index){
             head = tempNode.next;
             return;
         }
         while(tempNode != null)
         {
-            if(tempNode.value == value){
+            if(count == index){
                 previousNode.next = tempNode.next;
             }
             previousNode = tempNode;
             tempNode = tempNode.next;
+            count++;
         }
 
     }
